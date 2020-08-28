@@ -1,0 +1,5 @@
+print("Merhaba", "Selam", "SoftwareLab", sep="_")
+print("Merhaba", "Selam", "SoftwareLab", sep="*")
+print("Merhaba", "Selam", "SoftwareLab", sep=".")
+print("Merhaba", "Selam", "SoftwareLab", sep="    ")
+print("Merhaba", "Selam", "SoftwareLab", sep="&")
