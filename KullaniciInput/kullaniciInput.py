@@ -1,5 +1,5 @@
-ad = input(str("Adınız:"))
-soyad = input(str("Soyadınız:"))
+ad = str(input("Adınız:"))
+soyad = str(input("Soyadınız:"))
 yas = input("Yaşınız:")
 dogumyili = input("Doğum Yılınız:")
 
